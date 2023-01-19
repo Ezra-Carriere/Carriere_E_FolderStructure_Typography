@@ -10,7 +10,7 @@
     width: 428px;
     border: solid 1px #333;
     border-radius: 10px;
-    background-color: #efefef;
+    background-color: white;
 }
 
 #main-content {
@@ -26,27 +26,28 @@ article {
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Ubuntu', sans-serif, arial;
     font-size: 20px;
-    font-weight: 100px;
+    font-weight: 400px;
 }
 
 p {
-    line-height: 30px;
-    color: #363636;
+    line-height: 35px;
+    color: black;
 }
 
-h2 {
-    font-size: 56px;
-    font-weight: 300;
-    letter-spacing: 3px;
-    background-color: rgb(75, 75, 75);
-    color: #fff;
-    padding: 15px;
-    box-shadow: 5px 5px 0 #bd2ae6;
+.logo {
+    width: 388px;
+    align-content: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
 
-h3 {
-    font-size: 42px;
-    letter-spacing: 1px;
+.qu3nch {
+    font-family: 'Anton', sans-serif;
+    color: rgb(243, 114, 35);
+}
+
+.image {
+    width: 388px;
 }
